@@ -1,4 +1,4 @@
-# Flare_Attenuation_Filter
+# Flare Attenuation Filter
 
 Lens flare artifacts are undesired visual distortions caused by stray light, which can negatively impact the integrity and quality of an image. These artifacts pose a significant challenge in industrial applications like automotive and surveillance, where the quality and reliability of input images are crucial. Although there are techniques to prevent unwanted light from entering the camera, they are not always effective, requiring image post-processing methods.
 
