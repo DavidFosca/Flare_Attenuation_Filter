@@ -10,5 +10,5 @@ This study serves as a proof-of-concept to understand the resource utilization a
 
 
 <p align="center"> 
-    <img src="https://github.com/DavidFosca/MaritimeObstacleDetection_USV/blob/main/flare_attenuation.png" alt="Resultado">
+    <img src="https://github.com/DavidFosca/Flare_Attenuation_Filter/blob/main/flare_attenuation.png" alt="Resultado">
 </p>
