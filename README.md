@@ -12,3 +12,8 @@ This study serves as a proof-of-concept to understand the resource utilization a
 <p align="center"> 
     <img src="https://github.com/DavidFosca/Flare_Attenuation_Filter/blob/main/flare_attenuation.png" alt="Resultado">
 </p>
+
+<p align="center"> 
+    <img src="https://github.com/DavidFosca/Flare_Attenuation_Filter/blob/main/flare_attenuation2.png" alt="Resultado">
+</p>
+
